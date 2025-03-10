@@ -1,0 +1,78 @@
+<!-- Container for the customer login section -->
+<div class="customer-login-container">
+
+  <!-- Header for the customer login form -->
+    <h3>Customer Login</h3>
+
+  <!-- Form for customer login and ticket purchase -->
+  <!-- The form is bound to the `customerLoginForm` FormGroup and calls `handleCustomerLoginSubmit()` on submission -->
+    <form [formGroup]="customerLoginForm" (ngSubmit)="handleCustomerLoginSubmit()">
+        <div class="form-group">
+          <!-- Username input field -->
+            <label>Username:</label>
+          <!-- Bound to the `username` control in the reactive form -->
+            <input formControlName="username" type="text" />
+          <!-- Error message displayed if the username field is invalid and touched -->
+            <div *ngIf="customerLoginForm.get('username')?.invalid && customerLoginForm.get('username')?.touched" class="error">
+                Username is required.
+            </div>
+        </div>
+        <div class="form-group">
+          <!-- Password input field -->
+            <label>Password:</label>
+          <!-- Bound to the `password` control in the reactive form -->
+            <input formControlName="password" type="password" />
+          <!-- Error message displayed if the password field is invalid and touched -->
+          <div
+            *ngIf="
+          customerLoginForm.get('password')?.invalid &&
+          customerLoginForm.get('password')?.touched
+        "
+            class="error"
+          >
+            Password is required and must be greater than 8.
+          </div>
+        </div>
+        <div class="form-group">
+          <!-- Tickets to buy input field -->
+            <label>Tickets to Buy:</label>
+          <!-- Bound to the `ticketsToBuy` control in the reactive form -->
+            <input formControlName="ticketsToBuy" type="number" />
+          <!-- Error message displayed if the ticketsToBuy field is invalid and touched -->
+          <div
+            *ngIf="
+          customerLoginForm.get('ticketsToBuy')?.invalid &&
+          customerLoginForm.get('ticketsToBuy')?.touched
+        "
+            class="error"
+          >
+            <!-- Conditional error message for exceeding max capacity -->
+            <span *ngIf="customerLoginForm.get('ticketsToBuy')?.errors?.['max']">
+          Tickets to Buy cannot exceed Customer Retrieval ({{ maxCapacity }}).
+        </span>
+                Tickets to Buy is required and must be greater zero.
+            </div>
+        </div>
+
+      <!-- Submit button for the form -->
+      <!-- Disabled if the form is invalid -->
+        <button type="submit" [disabled]="customerLoginForm.invalid" class="submit-btn">Customer Register/ Login</button>
+
+      <!-- Reset button to clear the form fields -->
+        <button type="reset" class="submit-btn">Clear</button>
+
+    </form>
+
+  <!-- Success message displayed when the purchaseSuccess$ observable emits a value -->
+    <h2 *ngIf="purchaseSuccess$ | async as purchaseSuccess" class="success-message">
+        {{ purchaseSuccess }}
+    </h2>
+</div>
+
+
+
+
+
+
+
+

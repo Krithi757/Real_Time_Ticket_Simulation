@@ -1,0 +1,877 @@
+Nov 09, 2024 11:09:31 AM cli.TicketCLI main
+INFO: Configuration saved to ticket_config.json.
+Nov 09, 2024 11:09:31 AM cli.TicketCLI main
+INFO: Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Nov 09, 2024 11:11:48 AM cli.TicketCLI main
+INFO: Configuration saved to ticket_config.json.
+Nov 09, 2024 11:11:48 AM cli.TicketCLI main
+INFO: Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Nov 09, 2024 11:14:10 AM com.example.ticketsimulation.Vendor sendTicketUpdate
+INFO: Vendor 2 registered successfully with username: user1994799838 and password: seRRIo0M
+Nov 09, 2024 11:14:10 AM com.example.ticketsimulation.Vendor sendTicketUpdate
+INFO: Vendor 2 account status: Logged in
+Nov 09, 2024 11:14:10 AM com.example.ticketsimulation.Vendor sendTicketUpdate
+INFO: Vendor 2 changed price. Price for {Hotel Booking} is 5811
+Nov 09, 2024 11:14:11 AM com.example.ticketsimulation.Vendor sendTicketUpdate
+INFO: Vendor 2 changed price. Price for {Hotel Booking} is 5047
+Nov 09, 2024 11:14:11 AM com.example.ticketsimulation.Vendor sendTicketUpdate
+INFO: Vendor 5 registered successfully with username: user720343409 and password: MDILpfFf
+Nov 09, 2024 11:14:11 AM com.example.ticketsimulation.Vendor sendTicketUpdate
+INFO: Vendor 5 account status: Logged in
+Nov 09, 2024 11:14:11 AM com.example.ticketsimulation.Vendor sendTicketUpdate
+INFO: Vendor 5 changed price. Price for {Game Show Booking} is 6764
+Nov 09, 2024 11:14:12 AM com.example.ticketsimulation.Vendor sendTicketUpdate
+INFO: Vendor 4 registered successfully with username: user223782591 and password: D9PVUVJb
+Nov 09, 2024 11:14:12 AM com.example.ticketsimulation.Vendor sendTicketUpdate
+INFO: Vendor 4 account status: Logged in
+Nov 09, 2024 11:14:12 AM com.example.ticketsimulation.Vendor sendTicketUpdate
+INFO: Vendor 4 changed price. Price for {Hotel Booking} is 6900
+Nov 09, 2024 11:14:12 AM com.example.ticketsimulation.Vendor sendTicketUpdate
+INFO: Vendor 2 changed price. Price for {Hotel Booking} is 6737
+Nov 09, 2024 11:14:12 AM com.example.ticketsimulation.Vendor sendTicketUpdate
+INFO: Vendor 1 registered successfully with username: user-1430021154 and password: OhW5hgr3
+Nov 09, 2024 11:14:12 AM com.example.ticketsimulation.Vendor sendTicketUpdate
+INFO: Vendor 1 account status: Logged in
+Nov 09, 2024 11:14:12 AM com.example.ticketsimulation.Vendor sendTicketUpdate
+INFO: Vendor 1 changed price. Price for {Game Show Booking} is 5126
+Nov 09, 2024 11:14:13 AM com.example.ticketsimulation.Vendor sendTicketUpdate
+INFO: Vendor 3 registered successfully with username: user1138327067 and password: BuT9JJnx
+Nov 09, 2024 11:14:13 AM com.example.ticketsimulation.Vendor sendTicketUpdate
+INFO: Vendor 3 account status: Logged in
+Nov 09, 2024 11:14:13 AM com.example.ticketsimulation.Vendor sendTicketUpdate
+INFO: Vendor 3 changed price. Price for {Game Show Booking} is 5424
+Nov 09, 2024 11:14:13 AM com.example.ticketsimulation.Vendor sendTicketUpdate
+INFO: Vendor 3 changed price. Price for {Game Show Booking} is 6548
+Nov 09, 2024 11:14:14 AM com.example.ticketsimulation.Vendor sendTicketUpdate
+INFO: Vendor 4 changed price. Price for {Hotel Booking} is 6974
+Nov 09, 2024 11:14:14 AM com.example.ticketsimulation.Vendor sendTicketUpdate
+INFO: Vendor 2 changed price. Price for {Hotel Booking} is 5759
+Nov 09, 2024 11:14:14 AM com.example.ticketsimulation.Vendor sendTicketUpdate
+INFO: Vendor 3 changed price. Price for {Game Show Booking} is 6718
+Nov 09, 2024 11:14:15 AM com.example.ticketsimulation.Vendor sendTicketUpdate
+INFO: Vendor 1 changed price. Price for {Game Show Booking} is 6827
+Nov 09, 2024 11:14:17 AM com.example.ticketsimulation.Vendor sendTicketUpdate
+INFO: Vendor 5 changed price. Price for {Game Show Booking} is 6255
+Nov 09, 2024 11:14:17 AM com.example.ticketsimulation.Vendor sendTicketUpdate
+INFO: Vendor 5 changed price. Price for {Game Show Booking} is 5976
+Nov 09, 2024 11:14:17 AM com.example.ticketsimulation.Vendor sendTicketUpdate
+INFO: Vendor 1 changed price. Price for {Game Show Booking} is 6314
+Nov 09, 2024 11:14:17 AM com.example.ticketsimulation.Vendor sendTicketUpdate
+INFO: Vendor 4 changed price. Price for {Hotel Booking} is 5240
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Vendor 2 registered successfully with username: user343222468 and password: symk6OMp
+Vendor 2 account status: Logged in
+Vendor 2 changed price. Price for {Fashion Event} is 6168
+Vendor 5 registered successfully with username: user1529370053 and password: ffUGJszO
+Vendor 5 account status: Logged in
+Vendor 5 changed price. Price for {Cooking Event} is 5814
+Vendor 3 registered successfully with username: user1621086335 and password: m2y7VPZE
+Vendor 3 account status: Logged in
+Vendor 3 changed price. Price for {Game Show Booking} is 6536
+Vendor 5 changed price. Price for {Cooking Event} is 6991
+Vendor 3 changed price. Price for {Game Show Booking} is 6668
+Vendor 5 changed price. Price for {Cooking Event} is 6450
+Vendor 2 changed price. Price for {Fashion Event} is 6057
+Vendor 2 changed price. Price for {Fashion Event} is 6957
+Vendor 3 changed price. Price for {Game Show Booking} is 6776
+Vendor 1 registered successfully with username: user-945309947 and password: ou0S0l9c
+Vendor 1 account status: Logged in
+Vendor 1 changed price. Price for {Cooking Event} is 5863
+Vendor 3 changed price. Price for {Game Show Booking} is 6346
+Vendor 2 changed price. Price for {Fashion Event} is 6582
+Vendor 2 changed price. Price for {Fashion Event} is 5172
+Vendor 5 changed price. Price for {Cooking Event} is 5362
+Vendor 2 changed price. Price for {Fashion Event} is 6495
+Vendor 4 registered successfully with username: user254740329 and password: 6LvzpVZq
+Vendor 4 account status: Logged in
+Vendor 4 changed price. Price for {Hotel Booking} is 5567
+Vendor 3 changed price. Price for {Game Show Booking} is 5968
+Vendor 3 changed price. Price for {Game Show Booking} is 5809
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Vendor 1 registered successfully with username: user-1350493605 and password: KxR9bF4X
+Vendor 1 account status: Logged in
+Vendor 1 changed price. Price for {Fashion Event} is 5284
+Vendor 1 changed price. Price for {Fashion Event} is 5890
+Vendor 2 registered successfully with username: user-1215161473 and password: ZE3Jf3JA
+Vendor 2 account status: Logged in
+Vendor 2 changed price. Price for {Cooking Event} is 5349
+Vendor 3 registered successfully with username: user1937032997 and password: cHaoemmC
+Vendor 3 account status: Logged in
+Vendor 3 changed price. Price for {Game Show Booking} is 5302
+Vendor 2 changed price. Price for {Cooking Event} is 5678
+Vendor 1 changed price. Price for {Fashion Event} is 6594
+Vendor 5 registered successfully with username: user1571062290 and password: 9T65R7sW
+Vendor 5 account status: Logged in
+Vendor 5 changed price. Price for {Fashion Event} is 6414
+Vendor 1 changed price. Price for {Fashion Event} is 5699
+Vendor 3 changed price. Price for {Game Show Booking} is 5255
+Vendor 1 changed price. Price for {Fashion Event} is 5548
+Vendor 3 changed price. Price for {Game Show Booking} is 5914
+Vendor 2 changed price. Price for {Cooking Event} is 5809
+Vendor 3 changed price. Price for {Game Show Booking} is 6513
+Vendor 4 registered successfully with username: user1398853458 and password: Kordx5lD
+Vendor 4 account status: Logged in
+Vendor 4 changed price. Price for {Fashion Event} is 6742
+Vendor 5 changed price. Price for {Fashion Event} is 5886
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Vendor 5 registered successfully with username: user512741728 and password: QsdhwZ5f
+Vendor 5 account status: Logged in
+Vendor 5 changed price. Price for {Fashion Event} is 5665
+Vendor 1 registered successfully with username: user-491923175 and password: zGY1tywM
+Vendor 1 account status: Logged in
+Vendor 1 changed price. Price for {Game Show Booking} is 6887
+Vendor 2 registered successfully with username: user-765986324 and password: RcE0MGMh
+Vendor 2 account status: Logged in
+Vendor 2 changed price. Price for {Movie Theater} is 6267
+Vendor 4 registered successfully with username: user339892289 and password: c9ptHYrX
+Vendor 4 account status: Logged in
+Vendor 4 changed price. Price for {Game Show Booking} is 6602
+Vendor 5 changed price. Price for {Fashion Event} is 6912
+Vendor 4 changed price. Price for {Game Show Booking} is 5577
+Vendor 5 changed price. Price for {Fashion Event} is 6389
+Vendor 4 changed price. Price for {Game Show Booking} is 5536
+Vendor 3 registered successfully with username: user-1989077012 and password: H32YZ88v
+Vendor 3 account status: Logged in
+Vendor 3 changed price. Price for {Movie Theater} is 5588
+Vendor 5 changed price. Price for {Fashion Event} is 6478
+Vendor 3 changed price. Price for {Movie Theater} is 5166
+Vendor 1 changed price. Price for {Game Show Booking} is 6797
+Vendor 4 changed price. Price for {Game Show Booking} is 6888
+Vendor 3 changed price. Price for {Movie Theater} is 6467
+Vendor 4 changed price. Price for {Game Show Booking} is 5829
+Vendor 5 changed price. Price for {Fashion Event} is 5739
+Vendor 3 changed price. Price for {Movie Theater} is 5881
+Vendor 1 changed price. Price for {Game Show Booking} is 5437
+Vendor 2 changed price. Price for {Movie Theater} is 6468
+Vendor 3 changed price. Price for {Movie Theater} is 5055
+Vendor 5 changed price. Price for {Fashion Event} is 6706
+Vendor 2 changed price. Price for {Movie Theater} is 6413
+Vendor 5 changed price. Price for {Fashion Event} is 6629
+Vendor 1 changed price. Price for {Game Show Booking} is 6705
+Vendor 5 changed price. Price for {Fashion Event} is 6989
+Vendor 3 changed price. Price for {Movie Theater} is 5057
+Vendor 2 changed price. Price for {Movie Theater} is 6635
+Vendor 1 changed price. Price for {Game Show Booking} is 6152
+Vendor 4 changed price. Price for {Game Show Booking} is 6549
+Vendor 1 changed price. Price for {Game Show Booking} is 6412
+Vendor 4 changed price. Price for {Game Show Booking} is 5317
+Vendor 1 changed price. Price for {Game Show Booking} is 6270
+Vendor 3 changed price. Price for {Movie Theater} is 6127
+Vendor 4 changed price. Price for {Game Show Booking} is 5106
+Vendor 1 changed price. Price for {Game Show Booking} is 6811
+Vendor 1 changed price. Price for {Game Show Booking} is 6031
+Vendor 5 changed price. Price for {Fashion Event} is 6115
+Vendor 3 changed price. Price for {Movie Theater} is 6679
+Vendor 3 changed price. Price for {Movie Theater} is 6186
+Vendor 2 changed price. Price for {Movie Theater} is 6052
+Vendor 5 changed price. Price for {Fashion Event} is 6397
+Vendor 3 changed price. Price for {Movie Theater} is 6187
+Vendor 4 changed price. Price for {Game Show Booking} is 5337
+Vendor 3 changed price. Price for {Movie Theater} is 6783
+Vendor 4 changed price. Price for {Game Show Booking} is 5683
+Vendor 5 changed price. Price for {Fashion Event} is 5556
+Vendor 1 changed price. Price for {Game Show Booking} is 5598
+Vendor 2 changed price. Price for {Movie Theater} is 5630
+Vendor 1 changed price. Price for {Game Show Booking} is 6106
+Vendor 1 changed price. Price for {Game Show Booking} is 6195
+Vendor 5 changed price. Price for {Fashion Event} is 5877
+Vendor 1 changed price. Price for {Game Show Booking} is 5630
+Vendor 3 changed price. Price for {Movie Theater} is 6009
+Vendor 4 changed price. Price for {Game Show Booking} is 6240
+Vendor 5 changed price. Price for {Fashion Event} is 6766
+Vendor 1 changed price. Price for {Game Show Booking} is 6447
+Vendor 3 changed price. Price for {Movie Theater} is 6066
+Vendor 4 changed price. Price for {Game Show Booking} is 5639
+Vendor 4 changed price. Price for {Game Show Booking} is 6559
+Vendor 5 changed price. Price for {Fashion Event} is 6880
+Vendor 1 changed price. Price for {Game Show Booking} is 6975
+Vendor 5 changed price. Price for {Fashion Event} is 5721
+Vendor 3 changed price. Price for {Movie Theater} is 5888
+Vendor 4 changed price. Price for {Game Show Booking} is 5082
+Vendor 4 changed price. Price for {Game Show Booking} is 6347
+Vendor 1 changed price. Price for {Game Show Booking} is 6527
+Vendor 5 changed price. Price for {Fashion Event} is 6145
+Vendor 2 changed price. Price for {Movie Theater} is 6332
+Vendor 4 changed price. Price for {Game Show Booking} is 5891
+Vendor 4 changed price. Price for {Game Show Booking} is 6482
+Vendor 1 changed price. Price for {Game Show Booking} is 5961
+Vendor 4 changed price. Price for {Game Show Booking} is 6559
+Vendor 2 changed price. Price for {Movie Theater} is 5613
+Vendor 4 changed price. Price for {Game Show Booking} is 6844
+Vendor 1 changed price. Price for {Game Show Booking} is 5632
+Vendor 5 changed price. Price for {Fashion Event} is 6179
+Vendor 4 changed price. Price for {Game Show Booking} is 6747
+Vendor 2 changed price. Price for {Movie Theater} is 6741
+Vendor 1 changed price. Price for {Game Show Booking} is 5779
+Vendor 3 changed price. Price for {Movie Theater} is 6985
+Vendor 4 changed price. Price for {Game Show Booking} is 6270
+Vendor 4 changed price. Price for {Game Show Booking} is 5304
+Vendor 2 changed price. Price for {Movie Theater} is 6494
+Vendor 4 changed price. Price for {Game Show Booking} is 6191
+Vendor 2 changed price. Price for {Movie Theater} is 5856
+Vendor 2 changed price. Price for {Movie Theater} is 5959
+Vendor 5 changed price. Price for {Fashion Event} is 6562
+Vendor 2 changed price. Price for {Movie Theater} is 5989
+Vendor 3 changed price. Price for {Movie Theater} is 5121
+Vendor 5 changed price. Price for {Fashion Event} is 6298
+Vendor 3 changed price. Price for {Movie Theater} is 6548
+Vendor 4 changed price. Price for {Game Show Booking} is 6361
+Vendor 2 changed price. Price for {Movie Theater} is 5730
+Vendor 4 changed price. Price for {Game Show Booking} is 6555
+Vendor 3 changed price. Price for {Movie Theater} is 6609
+Vendor 5 changed price. Price for {Fashion Event} is 6072
+Vendor 2 changed price. Price for {Movie Theater} is 5276
+Vendor 3 changed price. Price for {Movie Theater} is 6655
+Vendor 5 changed price. Price for {Fashion Event} is 6716
+Vendor 2 changed price. Price for {Movie Theater} is 5898
+Vendor 2 changed price. Price for {Movie Theater} is 5234
+Vendor 1 changed price. Price for {Game Show Booking} is 6231
+Vendor 3 changed price. Price for {Movie Theater} is 5922
+Vendor 3 changed price. Price for {Movie Theater} is 6259
+Vendor 2 changed price. Price for {Movie Theater} is 5651
+Vendor 5 changed price. Price for {Fashion Event} is 6319
+Vendor 2 changed price. Price for {Movie Theater} is 6473
+Vendor 2 changed price. Price for {Movie Theater} is 6717
+Vendor 1 changed price. Price for {Game Show Booking} is 6873
+Vendor 5 changed price. Price for {Fashion Event} is 5412
+Vendor 3 changed price. Price for {Movie Theater} is 6571
+Vendor 4 changed price. Price for {Game Show Booking} is 5424
+Vendor 4 changed price. Price for {Game Show Booking} is 5081
+Vendor 1 changed price. Price for {Game Show Booking} is 5006
+Vendor 1 changed price. Price for {Game Show Booking} is 5461
+Vendor 3 changed price. Price for {Movie Theater} is 5584
+Vendor 5 changed price. Price for {Fashion Event} is 6894
+Vendor 5 changed price. Price for {Fashion Event} is 6893
+Vendor 4 changed price. Price for {Game Show Booking} is 6711
+Vendor 5 changed price. Price for {Fashion Event} is 6848
+Vendor 4 changed price. Price for {Game Show Booking} is 6815
+Vendor 2 changed price. Price for {Movie Theater} is 5047
+Vendor 3 changed price. Price for {Movie Theater} is 6882
+Vendor 4 changed price. Price for {Game Show Booking} is 6713
+Vendor 4 changed price. Price for {Game Show Booking} is 6511
+Vendor 3 changed price. Price for {Movie Theater} is 6763
+Vendor 4 changed price. Price for {Game Show Booking} is 5571
+Vendor 3 changed price. Price for {Movie Theater} is 5628
+Vendor 5 changed price. Price for {Fashion Event} is 6474
+Vendor 1 changed price. Price for {Game Show Booking} is 6710
+Vendor 5 changed price. Price for {Fashion Event} is 6940
+Vendor 2 changed price. Price for {Movie Theater} is 6639
+Vendor 2 changed price. Price for {Movie Theater} is 5308
+Vendor 4 changed price. Price for {Game Show Booking} is 5726
+Vendor 2 changed price. Price for {Movie Theater} is 5148
+Vendor 3 changed price. Price for {Movie Theater} is 5792
+Vendor 1 changed price. Price for {Game Show Booking} is 6530
+Vendor 4 changed price. Price for {Game Show Booking} is 6802
+Vendor 1 changed price. Price for {Game Show Booking} is 5639
+Vendor 2 changed price. Price for {Movie Theater} is 6829
+Vendor 3 changed price. Price for {Movie Theater} is 5153
+Vendor 5 changed price. Price for {Fashion Event} is 6672
+Vendor 3 changed price. Price for {Movie Theater} is 6138
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Configuration saved to ticket_config.json.
+Configuration saved to ticket_config.json.
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Configuration saved to ticket_config.json.
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Configuration saved to ticket_config.json.
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Configuration saved to ticket_config.json.
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Configuration saved to ticket_config.json.
+Configuration saved to ticket_config.json.
+Configuration saved to ticket_config.json.
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Configuration saved to ticket_config.json.
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Configuration saved to ticket_config.json.
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+
+Configuration saved to ticket_config.json.
+Start Ticket Process Response:
+{"message":"Ticket sales process initialized!"}
+

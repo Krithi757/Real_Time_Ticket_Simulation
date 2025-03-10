@@ -1,0 +1,89 @@
+<!-- Container for the ticket sales form section -->
+<div class="ticket-form-container">
+
+  <!-- Header for the ticket sales form -->
+  <h3>Ticket Sales Form</h3>
+
+  <!-- Form for ticket sales -->
+  <!-- The form is bound to the `ticketForm` FormGroup and calls `handleTicketFormSubmit()` on submission -->
+  <form [formGroup]="ticketForm" (ngSubmit)="handleTicketFormSubmit()">
+    <div class="form-group">
+      <!-- Total tickets input field -->
+      <label>Total Tickets:</label>
+      <!-- Bound to the `totalTickets` control in the reactive form -->
+      <input formControlName="totalTickets" type="number" />
+      <!-- Error message displayed if the totalTickets field is invalid and touched -->
+      <div
+        *ngIf="
+          ticketForm.get('totalTickets')?.invalid &&
+          ticketForm.get('totalTickets')?.touched
+        "
+        class="error"
+      >
+        Total Tickets is required and must be greater than zero.
+      </div>
+    </div>
+    <div class="form-group">
+      <!--Ticket Release input field-->
+      <label>Ticket Release Time:</label>
+      <!--Bound to ticketRelease control in the reactive form-->
+      <input formControlName="ticketRelease" type="number" />
+      <!-- Error message displayed if the ticketRelease field is invalid and touched -->
+      <div
+        *ngIf="
+          ticketForm.get('ticketRelease')?.invalid &&
+          ticketForm.get('ticketRelease')?.touched
+        "
+        class="error"
+      >
+        Ticket Release is required and must be greater than zero.
+      </div>
+    </div>
+    <div class="form-group">
+      <!--Customer Retrieval input field-->
+      <label>Customer Retrieval Time:</label>
+      <!--Bound to customerRetrieval control in the reactive form-->
+      <input formControlName="customerRetrieval" type="number" />
+      <!-- Error message displayed if the customerRetrieval field is invalid and touched -->
+      <div
+        *ngIf="
+          ticketForm.get('customerRetrieval')?.invalid &&
+          ticketForm.get('customerRetrieval')?.touched
+        "
+        class="error"
+      >
+        Customer Retrieval is required and must be greater than zero. .
+      </div>
+    </div>
+    <div class="form-group">
+      <!--Max Capacity input field-->
+      <label>Max Capacity:</label>
+      <!--Bound to maxCapacity control in the reactive form-->
+      <input formControlName="maxCapacity" type="number" />
+      <!-- Error message displayed if the maxCapacity field is invalid and touched -->
+      <div
+        *ngIf="
+          ticketForm.get('maxCapacity')?.invalid &&
+          ticketForm.get('maxCapacity')?.touched
+        "
+        class="error"
+      >
+        Max Capacity is required and must be greater than zero. .
+      </div>
+    </div>
+    <!-- Error message displayed if any field is greater than the Total tickets field -->
+    <div *ngIf="ticketForm.errors?.['exceedsTotalTickets']" class="error">
+      All values must be less than or equal to Total Tickets.
+    </div>
+
+    <!-- Submit button for the form -->
+    <!-- Disabled if the form is invalid -->
+    <button type="submit" [disabled]="ticketForm.invalid" class="submit-btn">Start Ticket Process</button>
+    <!-- Reset button to clear the form fields -->
+    <button type="reset" class="submit-btn">Clear</button>
+  </form>
+  <!-- Success message displayed when the ticketResponseMessage$ observable emits a value -->
+  <p *ngIf="ticketResponseMessage$ | async" class="response">
+    {{ ticketResponseMessage$ | async }}
+  </p>
+</div>

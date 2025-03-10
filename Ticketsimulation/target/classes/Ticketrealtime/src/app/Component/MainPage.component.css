@@ -1,0 +1,259 @@
+.updates-container {
+  width: 90%;
+  max-width: 500px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-color: #282c34;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+}
+
+.updates {
+  max-height: 300px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-top: 10px;
+  font-size: 16px;
+  color: black;
+  background-color: #fff;
+  border-radius: 4px;
+}
+
+
+.updates ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.updates li {
+  padding: 8px;
+  border-bottom: 1px solid #eee;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+  border-color: #282c34;
+}
+
+label {
+  margin-bottom: 5px;
+  font-size: 0.9rem;
+  color: #555;
+}
+h4{
+  margin-left: 200px;
+}
+input[type="number"],
+input[type="date"],
+input[type="text"],
+input[type="password"],
+select {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 0.9rem;
+}
+
+.submit-btn, .clear-btn {
+  width: 100%;
+  padding: 10px;
+  font-size: 1rem;
+  border-radius: 4px;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.metrics{
+  width: 200px;
+  padding: 10px;
+  font-size: 1rem;
+  margin-left: 300px;
+  border-radius: 27px;
+  color: white;
+  background-color: #328c3a;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  border: none;
+  height: 50px;
+}
+
+.input{
+  width: 200px;
+  padding: 10px;
+  font-size: 1rem;
+  margin-left: 570px;
+  border-radius: 27px;
+  color: white;
+  background-color: #982b2b;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  border: none;
+  height: 50px;
+}
+
+.horizontalline{
+  width: 800px;
+  margin-left: 30px;
+  margin-top: 30px;
+  border: 2px solid #21528e;
+}
+
+.update{
+  width: 200px;
+  padding: 10px;
+  position: absolute;
+  font-size: 1rem;
+  margin-left: 330px;
+  border-radius: 27px;
+  color: white;
+  background-color: #ba8b32;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  border: none;
+  height: 50px;
+}
+
+.submit-btn {
+  background-color: #4CAF50;
+  margin-bottom: 10px;
+}
+
+.stop-btn{
+  width: 200px;
+  height: 50px;
+  padding: 10px;
+  margin-left: 20px;
+  font-size: 1rem;
+  border-radius: 27px;
+  border: none;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  background-color: #ba2828;
+  margin-top: 10px;
+}
+
+.clear-btn {
+  background-color: #6c757d;
+}
+
+.submit-btn:hover {
+  background-color: #45a049;
+}
+
+.clear-btn:hover {
+  background-color: #5a6268;
+}
+
+/* CSS with ordered message boxes */
+
+
+.ticket-form-container,
+.customer-login-container,
+.updates-container {
+  flex: 1; /* Make each container take up equal space */
+  min-width: 250px; /* Set a minimum width for each container */
+  max-width: 300px; /* Set a maximum width for better layout */
+  background-color: #f9f9f9; /* Optional: Add some background */
+  border-width: 2px;
+  border-color: #282c34;
+  padding: 20px;
+  border-radius: 10px; /* Optional: Rounded corners */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Add shadow */
+}
+
+.ticket-form-container{
+  margin-left: 860px;
+  position: absolute;
+  top: 160px;
+}
+
+.updates-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 1535px;
+  position: absolute;
+  top: 140px;
+  gap: 10px;
+}
+.customer-login-container{
+  display: flex;
+  flex-direction: column;
+  margin-left: 1190px;
+  position: absolute;
+  top: 160px;
+  gap: 10px;
+}
+.updates {
+  max-height: 300px; /* Optional: Limit height */
+  overflow-y: auto; /* Allow scrolling for updates */
+}
+
+.update-box {
+  background-color: #eef;
+  padding: 10px;
+  margin-bottom: 5px;
+  border-color: #282c34;
+  border-radius: 5px;
+}
+
+.error {
+  color: red;
+  font-size: 0.8rem;
+}
+
+.response {
+  text-align: center;
+  color: green;
+  font-size: 0.9rem;
+  margin-top: 10px;
+}
+
+/* Container for the Vendor Sales Chart */
+.chart-container {
+  margin-top: 30px;
+  margin-left: 30px;
+  padding: 20px;
+  width: 700px;
+  background-color: #f9f9f9; /* Light background for contrast */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow effect */
+  text-align: center;
+}
+
+/* Heading for the Vendor Sales Chart */
+.vendor-sales-chart h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.available-tickets-container{
+  margin-left: 50px;
+  width: 500px;
+}
+
+/* Styling for the chart's responsive container */
+.responsive-container {
+  width: 100%;
+  height: 300px; /* You can adjust this based on your needs */
+}
+
+/* Optional: Add some spacing between different sections in the page */
+.form-container {
+  margin-bottom: 20px;
+}

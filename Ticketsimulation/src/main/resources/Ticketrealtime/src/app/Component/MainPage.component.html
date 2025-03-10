@@ -1,0 +1,59 @@
+<!-- Container for the form -->
+<div class="form-container">
+</div>
+<!-- Display button for metrics -->
+<button class="metrics">Metrics</button>
+
+<!-- Ticket Sales Form -->
+<!-- Passes the STOMP client instance to the child component for WebSocket communication -->
+<app-ticket-sales-form [stompClient]="stompClient"></app-ticket-sales-form>
+
+<!-- Section for displaying general updates -->
+<div class="updates-container">
+  <h2>General Updates</h2>
+  <div class="updates">
+    <!-- Iterates through the generalUpdates array and displays each message -->
+    <div *ngFor="let messageObj of generalUpdates" class="update-box">
+      <p>{{ messageObj.message }}</p>
+    </div>
+  </div>
+</div>
+
+<!-- Display button for input forms -->
+<button class="input">Input Forms</button>
+
+<!-- Customer Login Component -->
+<!-- Passes the STOMP client and purchaseSuccess$ observable to the child component -->
+<app-customer-login
+  [stompClient]="stompClient"
+  [purchaseSuccess$]="purchaseSuccess$"
+></app-customer-login>
+
+<!-- Display button for updates -->
+<button class="update">Updates</button>
+
+<!-- Chart Section -->
+<!-- Passes vendor and customer sales data to the charts for visualization -->
+<app-charts
+  [vendorSalesData]="vendorSalesData"
+  [customerPurchaseData]="customerPurchaseData"
+></app-charts>
+
+<!-- Horizontal separator -->
+<hr class="horizontalline">
+
+<!-- Available Tickets Component -->
+<!-- Displays the number of available tickets -->
+<app-available-tickets [availableTickets]="avaialableTickets"></app-available-tickets>
+
+<!-- Button to stop all ongoing processes -->
+<button class="stop-btn" (click) = "stopProcess()">Stop all processes</button>
+
+<!-- Displays the WebSocket connection status -->
+<h3 style="margin-left: 33px; color:  #21528e; margin-top: 30px;">WebSocket Status: {{ connectionStatus$ | async }}</h3>
+
+
+
+
+
+

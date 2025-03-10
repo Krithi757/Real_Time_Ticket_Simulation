@@ -1,0 +1,240 @@
+Customer 4 registered successfully with username: user-590628057 and password: 4oqGm3j8
+Customer 4 account status: Logged in
+Customer 5 registered successfully with username: user1202909456 and password: nXXEg9jw
+Customer 5 account status: Logged in
+Customer 1 registered successfully with username: user-160388069 and password: gmKKh8uy
+Customer 1 account status: Logged in
+Customer 2 registered successfully with username: user564825033 and password: qm23DVm4
+Customer 2 account status: Logged in
+Customer 3 registered successfully with username: user-2052486498 and password: 5oQRKI1W
+Customer 3 account status: Logged in
+Vendor 1 registered successfully with username: user1130127259 and password: xaj6ivUL
+Vendor 1 account status: Logged in
+Vendor 1 added 20 tickets: {Event: Movie Theater, Date: 2024-11-01, Price: 3500. Total tickets available: 20 Total ticket count: 20}. 
+Max capacity reached. Waiting for customers to start purchasing....
+Customer 4 bought 8 tickets for: { [Event: Movie Theater, Date: 2024-11-01, Tickets Bought: 8]}. Total tickets left for all events: 12. Loyalty Points: 1
+Customer 3 bought 1 tickets for: { [Event: Movie Theater, Date: 2024-11-01, Tickets Bought: 1]}. Total tickets left for all events: 11. Loyalty Points: 1
+Customer 2 bought 3 tickets for: { [Event: Movie Theater, Date: 2024-11-01, Tickets Bought: 3]}. Total tickets left for all events: 8. Loyalty Points: 1
+Customer 1 bought 7 tickets for: { [Event: Movie Theater, Date: 2024-11-01, Tickets Bought: 7]}. Total tickets left for all events: 1. Loyalty Points: 1
+Vendor 3 registered successfully with username: user-628885423 and password: ANWxwhIV
+Vendor 3 account status: Logged in
+Vendor 3 added 19 tickets: {Event: Fashion Event, Date: 2024-11-05, Price: 4000. Total tickets available: 20 Total ticket count: 39}. 
+Customer 5 bought 5 tickets for: { [Event: Fashion Event, Date: 2024-11-05, Tickets Bought: 4], [Event: Movie Theater, Date: 2024-11-01, Tickets Bought: 1]}. Total tickets left for all events: 15. Loyalty Points: 1
+goe83248 registered successfully with username: goe83248 and password: 921391292929
+goe83248 account status: Logged in
+goe83248 bought 3 tickets for: { [Event: Fashion Event, Date: 2024-11-05, Tickets Bought: 3]}. Total tickets left for all events: 12. Loyalty Points: 1
+Customer 1 bought 3 tickets for: { [Event: Fashion Event, Date: 2024-11-05, Tickets Bought: 3]}. Total tickets left for all events: 9. Loyalty Points: 2
+Customer 2 bought 1 tickets for: { [Event: Fashion Event, Date: 2024-11-05, Tickets Bought: 1]}. Total tickets left for all events: 8. Loyalty Points: 2
+Customer 3 bought 7 tickets for: { [Event: Fashion Event, Date: 2024-11-05, Tickets Bought: 7]}. Total tickets left for all events: 1. Loyalty Points: 2
+Customer 4 bought 1 tickets for: { [Event: Fashion Event, Date: 2024-11-05, Tickets Bought: 1]}. Total tickets left for all events: 0. Loyalty Points: 2
+Vendor 3 added 6 tickets: {Event: Fashion Event, Date: 2024-11-05, Price: 4000. Total tickets available: 6 Total ticket count: 45}. 
+Vendor 2 registered successfully with username: user23775440 and password: MLndqkKV
+Vendor 2 account status: Logged in
+Vendor 2 added 8 tickets: {Event: Cooking Event, Date: 2024-11-04, Price: 3000. Total tickets available: 14 Total ticket count: 53}. 
+Vendor 5 registered successfully with username: user1862767775 and password: Vyj1J4dr
+Vendor 5 account status: Logged in
+Vendor 5 added 1 tickets: {Event: Cooking Event, Date: 2024-11-04, Price: 3000. Total tickets available: 15 Total ticket count: 54}. 
+Vendor 4 registered successfully with username: user1940945773 and password: VzqjCZAv
+Vendor 4 account status: Logged in
+Vendor 4 added 5 tickets: {Event: Game Show Booking, Date: 2024-11-03, Price: 4500. Total tickets available: 20 Total ticket count: 59}. 
+Customer 5 bought 7 tickets for: { [Event: Fashion Event, Date: 2024-11-05, Tickets Bought: 6], [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 1]}. Total tickets left for all events: 13. Loyalty Points: 2
+Customer 1 bought 9 tickets for: { [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 8], [Event: Game Show Booking, Date: 2024-11-03, Tickets Bought: 1]}. Total tickets left for all events: 4. Loyalty Points: 3
+Vendor 3 added 11 tickets: {Event: Fashion Event, Date: 2024-11-05, Price: 4000. Total tickets available: 15 Total ticket count: 70}. 
+Customer 3 bought 3 tickets for: { [Event: Game Show Booking, Date: 2024-11-03, Tickets Bought: 3]}. Total tickets left for all events: 12. Loyalty Points: 3
+Customer 4 bought 8 tickets for: { [Event: Fashion Event, Date: 2024-11-05, Tickets Bought: 7], [Event: Game Show Booking, Date: 2024-11-03, Tickets Bought: 1]}. Total tickets left for all events: 4. Loyalty Points: 3
+Vendor 2 added 16 tickets: {Event: Cooking Event, Date: 2024-11-04, Price: 3000. Total tickets available: 20 Total ticket count: 86}. 
+Vendor 2 changed price. Price for {Cooking Event} is 6823
+Max capacity reached. Waiting for customers to start purchasing....
+Max capacity reached. Waiting for customers to start purchasing....
+Customer 5 bought 6 tickets for: { [Event: Fashion Event, Date: 2024-11-05, Tickets Bought: 4], [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 2]}. Total tickets left for all events: 14. Loyalty Points: 3
+Customer 1 bought 7 tickets for: { [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 7]}. Total tickets left for all events: 7. Loyalty Points: 4
+Customer 3 bought 7 tickets for: { [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 7]}. Total tickets left for all events: 0. Loyalty Points: 4
+Vendor 3 added 4 tickets: {Event: Fashion Event, Date: 2024-11-05, Price: 4000. Total tickets available: 4 Total ticket count: 90}. 
+Customer 2 bought 2 tickets for: { [Event: Fashion Event, Date: 2024-11-05, Tickets Bought: 2]}. Total tickets left for all events: 2. Loyalty Points: 3
+Vendor 2 added 10 tickets: {Event: Cooking Event, Date: 2024-11-04, Price: 6823. Total tickets available: 12 Total ticket count: 100}. 
+Customer 5 bought 1 tickets for: { [Event: Fashion Event, Date: 2024-11-05, Tickets Bought: 1]}. Total tickets left for all events: 11. Loyalty Points: 4
+Customer 1 became a VIP customer.
+Customer 1 bought 4 tickets for: { [Event: Fashion Event, Date: 2024-11-05, Tickets Bought: 1], [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 3]}. Total tickets left for all events: 7. Loyalty Points: 5
+Customer 3 became a VIP customer.
+Customer 3 bought 1 tickets for: { [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 1]}. Total tickets left for all events: 6. Loyalty Points: 5
+Vendors stopping. Total ticket count reached.
+Customer 3 bought 3 tickets for: { [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 3]}. Total tickets left for all events: 3. Loyalty Points: 6
+Customer 2 bought 3 tickets for: { [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 3]}. Total tickets left for all events: 0. Loyalty Points: 4
+All tickets finished and reaching end
+Customer 2 registered successfully with username: user-1194547869 and password: 2GHWXzC9
+Customer 1 registered successfully with username: user-1490088186 and password: XLHIoS4v
+Customer 1 account status: Logged in
+Customer 2 account status: Logged in
+Vendor 1 registered successfully with username: user-1125406318 and password: 4LwafufT
+Vendor 1 account status: Logged in
+Customer 4 registered successfully with username: user-259635717 and password: JIPeJbVf
+Customer 4 account status: Logged in
+Vendor 1 added 20 tickets: {Event: Game Show Booking, Date: 2024-11-03, Price: 4500. Total tickets available: 20 Total ticket count: 20}. 
+Customer 5 registered successfully with username: user2112009913 and password: iO10oz5Z
+Customer 5 account status: Logged in
+Max capacity reached. Waiting for customers to start purchasing....
+Customer 3 registered successfully with username: user1420386061 and password: mD5vktto
+Customer 3 account status: Logged in
+Customer 1 bought 1 tickets for: { [Event: Game Show Booking, Date: 2024-11-03, Tickets Bought: 1]}. Total tickets left for all events: 19. Loyalty Points: 1
+Customer 3 bought 3 tickets for: { [Event: Game Show Booking, Date: 2024-11-03, Tickets Bought: 3]}. Total tickets left for all events: 16. Loyalty Points: 1
+Customer 5 bought 5 tickets for: { [Event: Game Show Booking, Date: 2024-11-03, Tickets Bought: 5]}. Total tickets left for all events: 11. Loyalty Points: 1
+Customer 4 bought 10 tickets for: { [Event: Game Show Booking, Date: 2024-11-03, Tickets Bought: 10]}. Total tickets left for all events: 1. Loyalty Points: 1
+Vendor 2 registered successfully with username: user1541099410 and password: 8O1yquLd
+Vendor 2 account status: Logged in
+Vendor 2 added 7 tickets: {Event: Cooking Event, Date: 2024-11-04, Price: 3000. Total tickets available: 8 Total ticket count: 27}. 
+Vendor 3 registered successfully with username: user-265928155 and password: GJ9Sm3OU
+Vendor 3 account status: Logged in
+Vendor 3 added 12 tickets: {Event: Game Show Booking, Date: 2024-11-03, Price: 4500. Total tickets available: 20 Total ticket count: 39}. 
+Customer 1 bought 2 tickets for: { [Event: Game Show Booking, Date: 2024-11-03, Tickets Bought: 1], [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 1]}. Total tickets left for all events: 18. Loyalty Points: 2
+Customer 3 bought 3 tickets for: { [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 3]}. Total tickets left for all events: 15. Loyalty Points: 2
+Customer 5 bought 6 tickets for: { [Event: Game Show Booking, Date: 2024-11-03, Tickets Bought: 3], [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 3]}. Total tickets left for all events: 9. Loyalty Points: 2
+Customer 1 bought 9 tickets for: { [Event: Game Show Booking, Date: 2024-11-03, Tickets Bought: 9]}. Total tickets left for all events: 0. Loyalty Points: 3
+No tickets available, waiting for new tickets...
+Vendor 2 added 12 tickets: {Event: Cooking Event, Date: 2024-11-04, Price: 3000. Total tickets available: 12 Total ticket count: 51}. 
+Vendor 5 registered successfully with username: user1154921892 and password: S4T0nGKt
+Vendor 5 account status: Logged in
+Vendor 5 added 8 tickets: {Event: Game Show Booking, Date: 2024-11-03, Price: 4500. Total tickets available: 20 Total ticket count: 59}. 
+Max capacity reached. Waiting for customers to start purchasing....
+Customer 3 bought 7 tickets for: { [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 7]}. Total tickets left for all events: 13. Loyalty Points: 3
+Customer 4 bought 1 tickets for: { [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 1]}. Total tickets left for all events: 12. Loyalty Points: 2
+Customer 5 bought 9 tickets for: { [Event: Game Show Booking, Date: 2024-11-03, Tickets Bought: 5], [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 4]}. Total tickets left for all events: 3. Loyalty Points: 3
+Vendor 2 added 17 tickets: {Event: Cooking Event, Date: 2024-11-04, Price: 3000. Total tickets available: 20 Total ticket count: 76}. 
+Customer 1 bought 9 tickets for: { [Event: Game Show Booking, Date: 2024-11-03, Tickets Bought: 3], [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 6]}. Total tickets left for all events: 11. Loyalty Points: 4
+Vendor 4 registered successfully with username: user-1677177696 and password: ZL83R4pW
+Vendor 4 account status: Logged in
+Vendor 4 added 9 tickets: {Event: Movie Theater, Date: 2024-11-01, Price: 3500. Total tickets available: 20 Total ticket count: 85}. 
+Max capacity reached. Waiting for customers to start purchasing....
+Customer 4 bought 2 tickets for: { [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 2]}. Total tickets left for all events: 18. Loyalty Points: 3
+Customer 3 bought 3 tickets for: { [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 3]}. Total tickets left for all events: 15. Loyalty Points: 4
+Customer 5 bought 1 tickets for: { [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 1]}. Total tickets left for all events: 14. Loyalty Points: 4
+Vendor 2 added 6 tickets: {Event: Cooking Event, Date: 2024-11-04, Price: 3000. Total tickets available: 20 Total ticket count: 91}. 
+Customer 1 became a VIP customer.
+Customer 1 bought 6 tickets for: { [Event: Movie Theater, Date: 2024-11-01, Tickets Bought: 1], [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 5]}. Total tickets left for all events: 14. Loyalty Points: 5
+Vendor 4 added 6 tickets: {Event: Movie Theater, Date: 2024-11-01, Price: 3500. Total tickets available: 20 Total ticket count: 97}. 
+Customer 4 bought 3 tickets for: { [Event: Movie Theater, Date: 2024-11-01, Tickets Bought: 3]}. Total tickets left for all events: 17. Loyalty Points: 4
+Customer 2 bought 6 tickets for: { [Event: Movie Theater, Date: 2024-11-01, Tickets Bought: 5], [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 1]}. Total tickets left for all events: 11. Loyalty Points: 1
+Vendor 2 added 3 tickets: {Event: Cooking Event, Date: 2024-11-04, Price: 3000. Total tickets available: 14 Total ticket count: 100}. 
+Customer 3 became a VIP customer.
+Customer 3 bought 5 tickets for: { [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 5]}. Total tickets left for all events: 9. Loyalty Points: 5
+Vendors stopping. Total ticket count reached.
+Customer 1 bought 4 tickets for: { [Event: Movie Theater, Date: 2024-11-01, Tickets Bought: 4]}. Total tickets left for all events: 5. Loyalty Points: 6
+Customer 4 became a VIP customer.
+Customer 4 bought 2 tickets for: { [Event: Movie Theater, Date: 2024-11-01, Tickets Bought: 2]}. Total tickets left for all events: 3. Loyalty Points: 5
+Customer 2 bought 2 tickets for: { [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 2]}. Total tickets left for all events: 1. Loyalty Points: 2
+Customer 1 bought 1 tickets for: { [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 1]}. Total tickets left for all events: 0. Loyalty Points: 7
+All tickets finished and reaching end
+Customer 5 registered successfully with username: user-860926515 and password: sY0ZvorY
+Customer 5 account status: Logged in
+Customer 4 registered successfully with username: user933051089 and password: rjdSE2Ry
+Customer 4 account status: Logged in
+Vendor 1 registered successfully with username: user1063863744 and password: y7XQLlVU
+Vendor 1 account status: Logged in
+Customer 2 registered successfully with username: user97469184 and password: YOmkZzZE
+Customer 2 account status: Logged in
+Customer 1 registered successfully with username: user309232874 and password: MbbGfbtE
+Customer 1 account status: Logged in
+Customer 3 registered successfully with username: user1194208618 and password: VvIZpPlJ
+Customer 3 account status: Logged in
+Vendor 1 added 9 tickets: {Event: Cooking Event, Date: 2024-11-04, Price: 3000. Total tickets available: 9 Total ticket count: 9}. 
+Vendor 2 registered successfully with username: user1489744462 and password: xfia0jON
+Vendor 2 account status: Logged in
+Vendor 2 added 11 tickets: {Event: Cooking Event, Date: 2024-11-04, Price: 3000. Total tickets available: 20 Total ticket count: 20}. 
+Max capacity reached. Waiting for customers to start purchasing....
+Max capacity reached. Waiting for customers to start purchasing....
+Customer 5 bought 1 tickets for: { [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 1]}. Total tickets left for all events: 19. Loyalty Points: 1
+Customer 3 bought 6 tickets for: { [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 6]}. Total tickets left for all events: 13. Loyalty Points: 1
+Customer 1 bought 2 tickets for: { [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 2]}. Total tickets left for all events: 11. Loyalty Points: 1
+Customer 2 bought 8 tickets for: { [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 8]}. Total tickets left for all events: 3. Loyalty Points: 1
+Customer 4 bought 1 tickets for: { [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 1]}. Total tickets left for all events: 2. Loyalty Points: 1
+Vendor 5 registered successfully with username: user-739289718 and password: KhdFeRMn
+Vendor 5 account status: Logged in
+Vendor 5 added 18 tickets: {Event: Hotel Booking, Date: 2024-11-02, Price: 5000. Total tickets available: 20 Total ticket count: 38}. 
+Customer 2 bought 8 tickets for: { [Event: Hotel Booking, Date: 2024-11-02, Tickets Bought: 6], [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 2]}. Total tickets left for all events: 12. Loyalty Points: 2
+Customer 3 bought 10 tickets for: { [Event: Hotel Booking, Date: 2024-11-02, Tickets Bought: 10]}. Total tickets left for all events: 2. Loyalty Points: 2
+Customer 1 bought 2 tickets for: { [Event: Hotel Booking, Date: 2024-11-02, Tickets Bought: 2]}. Total tickets left for all events: 0. Loyalty Points: 2
+No tickets available, waiting for new tickets...
+Vendor 3 registered successfully with username: user-179024068 and password: Ndv03cLi
+Vendor 3 account status: Logged in
+Vendor 3 added 9 tickets: {Event: Hotel Booking, Date: 2024-11-02, Price: 5000. Total tickets available: 9 Total ticket count: 47}. 
+Vendor 5 added 11 tickets: {Event: Hotel Booking, Date: 2024-11-02, Price: 5000. Total tickets available: 20 Total ticket count: 58}. 
+Customer 4 bought 10 tickets for: { [Event: Hotel Booking, Date: 2024-11-02, Tickets Bought: 10]}. Total tickets left for all events: 10. Loyalty Points: 2
+Customer 3 bought 1 tickets for: { [Event: Hotel Booking, Date: 2024-11-02, Tickets Bought: 1]}. Total tickets left for all events: 9. Loyalty Points: 3
+Customer 2 bought 7 tickets for: { [Event: Hotel Booking, Date: 2024-11-02, Tickets Bought: 7]}. Total tickets left for all events: 2. Loyalty Points: 3
+Vendor 3 added 18 tickets: {Event: Hotel Booking, Date: 2024-11-02, Price: 5000. Total tickets available: 20 Total ticket count: 76}. 
+Max capacity reached. Waiting for customers to start purchasing....
+Customer 4 bought 6 tickets for: { [Event: Hotel Booking, Date: 2024-11-02, Tickets Bought: 6]}. Total tickets left for all events: 14. Loyalty Points: 3
+Customer 3 bought 2 tickets for: { [Event: Hotel Booking, Date: 2024-11-02, Tickets Bought: 2]}. Total tickets left for all events: 12. Loyalty Points: 4
+Customer 2 bought 10 tickets for: { [Event: Hotel Booking, Date: 2024-11-02, Tickets Bought: 10]}. Total tickets left for all events: 2. Loyalty Points: 4
+Customer 1 bought 1 tickets for: { [Event: Hotel Booking, Date: 2024-11-02, Tickets Bought: 1]}. Total tickets left for all events: 1. Loyalty Points: 3
+Vendor 4 registered successfully with username: user296361598 and password: GNHI42Me
+Vendor 4 account status: Logged in
+Vendor 4 added 19 tickets: {Event: Movie Theater, Date: 2024-11-01, Price: 3500. Total tickets available: 20 Total ticket count: 95}. 
+Max capacity reached. Waiting for customers to start purchasing....
+Customer 4 bought 10 tickets for: { [Event: Movie Theater, Date: 2024-11-01, Tickets Bought: 9], [Event: Hotel Booking, Date: 2024-11-02, Tickets Bought: 1]}. Total tickets left for all events: 10. Loyalty Points: 4
+Customer 2 became a VIP customer.
+Customer 2 bought 8 tickets for: { [Event: Movie Theater, Date: 2024-11-01, Tickets Bought: 8]}. Total tickets left for all events: 2. Loyalty Points: 5
+Vendor 4 added 5 tickets: {Event: Movie Theater, Date: 2024-11-01, Price: 3500. Total tickets available: 7 Total ticket count: 100}. 
+Customer 5 bought 2 tickets for: { [Event: Movie Theater, Date: 2024-11-01, Tickets Bought: 2]}. Total tickets left for all events: 5. Loyalty Points: 2
+Customer 3 became a VIP customer.
+Customer 3 bought 5 tickets for: { [Event: Movie Theater, Date: 2024-11-01, Tickets Bought: 5]}. Total tickets left for all events: 0. Loyalty Points: 5
+Vendors stopping. Total ticket count reached.
+All tickets finished and reaching end
+Customer 1 registered successfully with username: user27738762 and password: EiGzQspC
+Customer 1 account status: Logged in
+Vendor 1 registered successfully with username: user-1787625510 and password: Fu71hIdl
+Vendor 1 account status: Logged in
+Customer 3 registered successfully with username: user875948456 and password: iTLFmXod
+Customer 3 account status: Logged in
+Customer 4 registered successfully with username: user-223234224 and password: Tz8xP73C
+Customer 4 account status: Logged in
+Customer 2 registered successfully with username: user862839905 and password: bSuWet6V
+Customer 2 account status: Logged in
+Customer 5 registered successfully with username: user656249516 and password: rZAAzIDg
+Customer 5 account status: Logged in
+Vendor 1 added 20 tickets: {Event: Cooking Event, Date: 2024-11-04, Price: 3000. Total tickets available: 20 Total ticket count: 20}. 
+Max capacity reached. Waiting for customers to start purchasing....
+Customer 1 bought 8 tickets for: { [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 8]}. Total tickets left for all events: 12. Loyalty Points: 1
+Customer 5 bought 9 tickets for: { [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 9]}. Total tickets left for all events: 3. Loyalty Points: 1
+Customer 1 bought 2 tickets for: { [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 2]}. Total tickets left for all events: 1. Loyalty Points: 2
+Vendor 2 registered successfully with username: user1580579789 and password: jRTrydUb
+Vendor 2 account status: Logged in
+Vendor 2 added 10 tickets: {Event: Hotel Booking, Date: 2024-11-02, Price: 5000. Total tickets available: 11 Total ticket count: 30}. 
+Vendor 3 registered successfully with username: user-569243235 and password: 73yv1xYX
+Vendor 3 account status: Logged in
+Vendor 3 added 9 tickets: {Event: Hotel Booking, Date: 2024-11-02, Price: 5000. Total tickets available: 20 Total ticket count: 39}. 
+Customer 5 bought 4 tickets for: { [Event: Hotel Booking, Date: 2024-11-02, Tickets Bought: 3], [Event: Cooking Event, Date: 2024-11-04, Tickets Bought: 1]}. Total tickets left for all events: 16. Loyalty Points: 2
+Customer 1 bought 5 tickets for: { [Event: Hotel Booking, Date: 2024-11-02, Tickets Bought: 5]}. Total tickets left for all events: 11. Loyalty Points: 3
+Customer 4 bought 4 tickets for: { [Event: Hotel Booking, Date: 2024-11-02, Tickets Bought: 4]}. Total tickets left for all events: 7. Loyalty Points: 1
+Customer 3 bought 7 tickets for: { [Event: Hotel Booking, Date: 2024-11-02, Tickets Bought: 7]}. Total tickets left for all events: 0. Loyalty Points: 1
+No tickets available, waiting for new tickets...
+Vendor 2 added 5 tickets: {Event: Hotel Booking, Date: 2024-11-02, Price: 5000. Total tickets available: 5 Total ticket count: 44}. 
+Vendor 5 registered successfully with username: user-198365746 and password: 5kQs0zz4
+Vendor 5 account status: Logged in
+Vendor 5 added 15 tickets: {Event: Fashion Event, Date: 2024-11-05, Price: 4000. Total tickets available: 20 Total ticket count: 59}. 
+Max capacity reached. Waiting for customers to start purchasing....
+Customer 5 bought 5 tickets for: { [Event: Hotel Booking, Date: 2024-11-02, Tickets Bought: 5]}. Total tickets left for all events: 15. Loyalty Points: 3
+Customer 1 bought 10 tickets for: { [Event: Fashion Event, Date: 2024-11-05, Tickets Bought: 10]}. Total tickets left for all events: 5. Loyalty Points: 4
+Vendor 2 added 15 tickets: {Event: Hotel Booking, Date: 2024-11-02, Price: 5000. Total tickets available: 20 Total ticket count: 74}. 
+Customer 3 bought 7 tickets for: { [Event: Fashion Event, Date: 2024-11-05, Tickets Bought: 5], [Event: Hotel Booking, Date: 2024-11-02, Tickets Bought: 2]}. Total tickets left for all events: 13. Loyalty Points: 2
+Vendor 4 registered successfully with username: user-2103359918 and password: Q2ysU0Ma
+Vendor 4 account status: Logged in
+Vendor 4 added 3 tickets: {Event: Game Show Booking, Date: 2024-11-03, Price: 4500. Total tickets available: 16 Total ticket count: 77}. 
+Vendor 5 added 4 tickets: {Event: Fashion Event, Date: 2024-11-05, Price: 4000. Total tickets available: 20 Total ticket count: 81}. 
+Customer 5 bought 1 tickets for: { [Event: Hotel Booking, Date: 2024-11-02, Tickets Bought: 1]}. Total tickets left for all events: 19. Loyalty Points: 4
+Customer 1 became a VIP customer.
+Customer 1 bought 1 tickets for: { [Event: Hotel Booking, Date: 2024-11-02, Tickets Bought: 1]}. Total tickets left for all events: 18. Loyalty Points: 5
+Customer 4 bought 1 tickets for: { [Event: Hotel Booking, Date: 2024-11-02, Tickets Bought: 1]}. Total tickets left for all events: 17. Loyalty Points: 2
+Customer 2 bought 7 tickets for: { [Event: Hotel Booking, Date: 2024-11-02, Tickets Bought: 7]}. Total tickets left for all events: 10. Loyalty Points: 1
+Vendor 2 added 10 tickets: {Event: Hotel Booking, Date: 2024-11-02, Price: 5000. Total tickets available: 20 Total ticket count: 91}. 
+Customer 3 bought 5 tickets for: { [Event: Hotel Booking, Date: 2024-11-02, Tickets Bought: 3], [Event: Game Show Booking, Date: 2024-11-03, Tickets Bought: 2]}. Total tickets left for all events: 15. Loyalty Points: 3
+Vendor 4 added 5 tickets: {Event: Game Show Booking, Date: 2024-11-03, Price: 4500. Total tickets available: 20 Total ticket count: 96}. 
+Max capacity reached. Waiting for customers to start purchasing....
+Customer 5 became a VIP customer.
+Customer 5 bought 8 tickets for: { [Event: Fashion Event, Date: 2024-11-05, Tickets Bought: 4], [Event: Hotel Booking, Date: 2024-11-02, Tickets Bought: 3], [Event: Game Show Booking, Date: 2024-11-03, Tickets Bought: 1]}. Total tickets left for all events: 12. Loyalty Points: 5
+Customer 1 bought 4 tickets for: { [Event: Hotel Booking, Date: 2024-11-02, Tickets Bought: 4]}. Total tickets left for all events: 8. Loyalty Points: 6
+Vendor 2 added 4 tickets: {Event: Hotel Booking, Date: 2024-11-02, Price: 5000. Total tickets available: 12 Total ticket count: 100}. 
+Customer 2 bought 9 tickets for: { [Event: Hotel Booking, Date: 2024-11-02, Tickets Bought: 4], [Event: Game Show Booking, Date: 2024-11-03, Tickets Bought: 5]}. Total tickets left for all events: 3. Loyalty Points: 2
+Vendors stopping. Total ticket count reached.
+Customer 1 bought 2 tickets for: { [Event: Hotel Booking, Date: 2024-11-02, Tickets Bought: 2]}. Total tickets left for all events: 1. Loyalty Points: 7
+Customer 1 bought 1 tickets for: { [Event: Hotel Booking, Date: 2024-11-02, Tickets Bought: 1]}. Total tickets left for all events: 0. Loyalty Points: 8
+All tickets finished and reaching end
