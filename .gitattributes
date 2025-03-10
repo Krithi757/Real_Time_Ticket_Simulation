@@ -1,7 +1,17 @@
-# Force GitHub to detect Java and TypeScript as primary languages
+# Force Java and TypeScript detection
 *.java linguist-detectable=true
 *.ts linguist-detectable=true
 *.html linguist-detectable=true
 *.scss linguist-detectable=true
 *.json linguist-detectable=true
+*.css linguist-detectable=true
+*.js linguist-detectable=true
+
+# Ignore roff-related files from language detection
 *.roff linguist-detectable=false
+*.1 linguist-detectable=false
+*.5 linguist-detectable=false
+*.7 linguist-detectable=false
+*.md linguist-documentation=true
+*.yml linguist-documentation=true
+*.xml linguist-documentation=true
