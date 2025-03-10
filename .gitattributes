@@ -1,2 +1,7 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Force GitHub to detect Java and TypeScript as primary languages
+*.java linguist-detectable=true
+*.ts linguist-detectable=true
+*.html linguist-detectable=true
+*.scss linguist-detectable=true
+*.json linguist-detectable=true
+*.roff linguist-detectable=false
